@@ -64,7 +64,7 @@ macOS/Linux shortcuts: `clsw` alone runs `list`, and `clsw <name>` runs `use <na
 
 1. Run `claude` and `/login` with account A. Quit claude.
 2. `clsw save personal`
-3. Run `claude`, `/logout`, then `/login` with account B. Quit claude.
+3. Run `claude`, then `/login` with account B. Quit claude.
 4. `clsw save work`
 
 ### Daily use
